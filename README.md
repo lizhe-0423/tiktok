@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6297f57a-4e89-40f2-a635-4f095944ff31)# tiktok
+# tiktok
 
 English | [简体中文](./docs/zh-cn.md)
 
@@ -14,7 +14,7 @@ English | [简体中文](./docs/zh-cn.md)
 
 # Architecture
 
-
+![image](https://github.com/user-attachments/assets/6297f57a-4e89-40f2-a635-4f095944ff31)
 
 # Quick start
 
@@ -134,11 +134,14 @@ you can drop `.postman/tiktok.openapi.json` to **postman** then start this proje
 
 ## Jaeger
 
-![jaeger](docs/img/jaeger.png)
-![jaeger-dag](docs/img/jaeger-dag.png)
+![image](https://github.com/user-attachments/assets/c4866882-2d84-4c41-bec4-f44c52a4139e)
+![image](https://github.com/user-attachments/assets/c8b0260f-7b44-4cae-8bb2-b01693c5c318)
+
 
 ## Kibana + Elasticsearch
-![kibana](docs/img/kibana.png)
+![image](https://github.com/user-attachments/assets/1d0b484e-20b5-43ea-817d-892d6c11750b)
+
 
 ## Grafana + Prometheus
-![grafana](docs/img/grafana.png)
+![image](https://github.com/user-attachments/assets/88a9ea77-dfe4-491a-86f1-1d66d7ad027d)
+
