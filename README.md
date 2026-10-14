@@ -1,4 +1,8 @@
-# tiktok
+<p align="center">
+  <img src="assets/project-icon.png" alt="Distributed video service project icon" width="128">
+</p>
+
+<h1 align="center">tiktok</h1>
 
 English | [简体中文](./docs/zh-cn.md)
 
